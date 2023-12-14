@@ -1,1 +1,1 @@
-# sanety-io
+# sanity-io
