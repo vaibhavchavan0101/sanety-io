@@ -1,1 +1,1 @@
-# senety-io
+# sanety-io
